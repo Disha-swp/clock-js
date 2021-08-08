@@ -1,5 +1,8 @@
 through javascript , html, css this small website will show the timezone according to user selection
-for instance i have taken only 3 timezone 
+for instance i have taken only 3 timezone
+
+
+
 below is the list of all timezones
 var my_timezones=[
 'Africa/Abidjan',
