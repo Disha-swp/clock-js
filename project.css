@@ -1,0 +1,13 @@
+.container{
+    background-color:#7c7c7c7b;
+    border-radius: 2rem;
+    block-size: 500px;
+}
+a.btn.btn-primary.btn-lg {
+    margin-bottom: 10px;
+    margin-left: 20px;
+    background: #000;
+}
+form {
+    margin-left: 20px;
+}
